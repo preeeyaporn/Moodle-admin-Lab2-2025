@@ -502,16 +502,18 @@ Grade to pass: 60%
 ```
 
 **บันทึกรูปหน้า Course ที่เพิ่มเติม Activities:** 
-```
- # บันทึกรูปหน้า Course ที่เพิ่มเติม Activities
-```
+<img width="999" height="484" alt="image" src="https://github.com/user-attachments/assets/59a432ca-bd53-4164-9343-4f7d2c37128c" />
+
 
 
 ## คำถามท้ายการทดลอง
 
 **1.** อธิบายความแตกต่างระหว่าง Category และ Cohort 
+Category = กลุ่มตามคุณสมบัติ (เช่น อายุ, เพศ, ประเทศ)
+Cohort = กลุ่มตามเวลา/เหตุการณ์ (เช่น เดือนสมัคร, วันซื้อครั้งแรก
 
 **2.** เหตุใดควรใช้ Cohort sync 
+Cohort sync → ใช้ติดตาม retention/churn ตามเวลา, ลด bias จากค่าเฉลี่ย, วัดผลแคมเปญ/ฟีเจอร์ใหม่
 
 **3.** Best practices สำหรับ Category structure คือแบบใด
-
+Best practices Category → ชัดเจนไม่ซ้อนทับ, สอดคล้องเป้าหมายธุรกิจ, ไม่เยอะเกินไป, อัปเดตตามข้อมูลจริง, ใช้คู่กับ cohort เพื่อ insight ลึกขึ้น
